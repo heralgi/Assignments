@@ -5,16 +5,25 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a number:");
-            string input = Console.ReadLine();
-            int length = input.Length;
-            Console.WriteLine(length);
-            string output = "";
+            int.TryParse(Console.ReadLine(), out int input);
+            bool reversed = false;
+            int output = 0;
 
-            for (int i = length-1; i >= 0; i--)
+            while (input > 0)
             {
-                output += input[i];
+                if (output == 0) 
+                {
+                    output = input % 10;
+                }
+                else
+                {
+                    output *= 10;
+                    output += input % 10;
+                }
+                
+                input = input / 10;
             }
-            Console.WriteLine($"Reverse of {input} is {output}.");
+            Console.WriteLine($"Reverse is {output}.");
         }
     }
 }
