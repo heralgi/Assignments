@@ -3,4 +3,8 @@
   <Project Path="Assignment 3/Assignment 3.csproj" />
   <Project Path="Assignment 4/Assignment 4.csproj" />
   <Project Path="Assignment_1/Assignment_1.csproj" />
+  <Project Path="CommandLine_Argument/CommandLine_Argument.csproj" Id="42747279-1d14-411f-b0cb-f782ee9bf965" />
+  <Project Path="Fibonacci/Fibonacci.csproj" Id="eb925ca5-6938-41de-87c4-f054f2ee53b1" />
+  <Project Path="Number_guess_game/Number_guess_game.csproj" Id="76e46556-23b2-4fff-82e6-60dcc7e0888e" />
+  <Project Path="Palindrome_string/Palindrome_string.csproj" Id="8350bb5a-d0b8-439c-ada4-0f82458c9e7a" />
 </Solution>
