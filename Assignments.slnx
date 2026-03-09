@@ -10,4 +10,5 @@
   <Project Path="Functions and Arrays/Functions and Arrays.csproj" Id="3ad808d1-7846-4cc9-b0f4-1f5a26411cba" />
   <Project Path="Number_guess_game/Number_guess_game.csproj" Id="76e46556-23b2-4fff-82e6-60dcc7e0888e" />
   <Project Path="Palindrome_string/Palindrome_string.csproj" Id="8350bb5a-d0b8-439c-ada4-0f82458c9e7a" />
+  <Project Path="POC_boxing_constructor/POC_boxing_constructor.csproj" Id="f071a50f-25d2-4046-8e41-19c6cb612546" />
 </Solution>
