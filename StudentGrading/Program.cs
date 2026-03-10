@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Student student1 = new Student("John", "12345", new int[] { 85, 90, 78, 92, 88 });
-            student1.ToString();
+            Console.WriteLine(student1);
         }
     }
 }

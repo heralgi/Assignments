@@ -24,17 +24,17 @@ namespace StudentGrading
 
         public override string ToString()
         {
-            Console.WriteLine("{0, -14} {1}","Student Name: ", studentName);
-            Console.WriteLine("{0, -14} {1}","Roll Number: ", rollNumber);
-            Console.WriteLine("{0, -14}", "Marks: ");
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(String.Format("{0, -14} {1}","Student Name: ", studentName));
+            sb.AppendLine(String.Format("{0, -14} {1}","Roll Number: ", rollNumber));
+            sb.AppendLine(String.Format("{0, -14}", "Marks: "));
             foreach (var mark in marks) {
-                Console.Write("{0, 17}", mark);
-                Console.WriteLine();
+                sb.AppendLine(String.Format("{0, 17}", mark));
             }
-            Console.WriteLine("{0, -14} {1}", "Average: ", Average);
-            Console.WriteLine("{0, -14} {1}", "Grade: ", Grade);
+            sb.AppendLine(String.Format("{0, -14} {1}", "Average: ", Average));
+            sb.AppendLine(String.Format("{0, -14} {1}", "Grade: ", Grade));
 
-            return "";
+            return sb.ToString();
         }
         void CalculateAverage()
         {
@@ -42,6 +42,7 @@ namespace StudentGrading
             {
                 Average += mark;
             }
+            Average = Average / marks.Length;
         }
 
         void CalculateGrade()
