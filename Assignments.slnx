@@ -1,8 +1,10 @@
 <Solution>
+  <Project Path="Array Accounts/Array Accounts.csproj" Id="c739a458-b62c-40a8-a533-555fad461566" />
   <Project Path="Assignment 2/Assignment 2.csproj" />
   <Project Path="Assignment 3/Assignment 3.csproj" />
   <Project Path="Assignment 4/Assignment 4.csproj" />
   <Project Path="Assignment_1/Assignment_1.csproj" />
+  <Project Path="BookDiscountCalculator/BookDiscountCalculator.csproj" Id="a7f5c391-9ea2-4a12-b091-5c149321edf9" />
   <Project Path="CommandLine_Argument/CommandLine_Argument.csproj" Id="42747279-1d14-411f-b0cb-f782ee9bf965" />
   <Project Path="Fibonacci/Fibonacci.csproj" Id="eb925ca5-6938-41de-87c4-f054f2ee53b1" />
   <Project Path="For_Foreach/For_Foreach.csproj" Id="88c39538-ca8c-4421-92b2-f4cd95e2a75d" />
