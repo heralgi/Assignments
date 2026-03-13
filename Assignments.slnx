@@ -16,6 +16,7 @@
   <Project Path="Palindrome_string/Palindrome_string.csproj" Id="8350bb5a-d0b8-439c-ada4-0f82458c9e7a" />
   <Project Path="Planet Gravity Enum/Planet Gravity Enum.csproj" Id="a1b44149-1dfd-4c40-8eb1-0c58dd6a4aac" />
   <Project Path="POC_boxing_constructor/POC_boxing_constructor.csproj" Id="f071a50f-25d2-4046-8e41-19c6cb612546" />
+  <Project Path="ProductApp/ProductApp.csproj" Id="9bbcd009-2076-49a8-ac17-25aa033f57fe" />
   <Project Path="StudentGrading/StudentGrading.csproj" Id="6bbcafda-1006-4c10-b745-5e0186837ac1" />
   <Project Path="UniversityEnrollmentCourse/UniversityEnrollmentCourse.csproj" Id="464f97c9-4d94-4e82-979b-2988db3e1df5" />
 </Solution>
