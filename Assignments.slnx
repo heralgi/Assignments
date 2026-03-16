@@ -14,6 +14,7 @@
   <Project Path="InOutParams/InOutParams.csproj" Id="bf0e3be6-c802-4970-ae55-4cc9dbf8b24a" />
   <Project Path="Number_guess_game/Number_guess_game.csproj" Id="76e46556-23b2-4fff-82e6-60dcc7e0888e" />
   <Project Path="Palindrome_string/Palindrome_string.csproj" Id="8350bb5a-d0b8-439c-ada4-0f82458c9e7a" />
+  <Project Path="PIG Game/PIG Game.csproj" Id="802b5088-d1e2-4de1-b6b2-c5c8e57d30ad" />
   <Project Path="Planet Gravity Enum/Planet Gravity Enum.csproj" Id="a1b44149-1dfd-4c40-8eb1-0c58dd6a4aac" />
   <Project Path="POC_boxing_constructor/POC_boxing_constructor.csproj" Id="f071a50f-25d2-4046-8e41-19c6cb612546" />
   <Project Path="ProductApp/ProductApp.csproj" Id="9bbcd009-2076-49a8-ac17-25aa033f57fe" />
