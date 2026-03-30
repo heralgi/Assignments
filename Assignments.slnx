@@ -17,6 +17,7 @@
   <Project Path="Palindrome_string/Palindrome_string.csproj" Id="8350bb5a-d0b8-439c-ada4-0f82458c9e7a" />
   <Project Path="PIG Game/PIG Game.csproj" Id="802b5088-d1e2-4de1-b6b2-c5c8e57d30ad" />
   <Project Path="Planet Gravity Enum/Planet Gravity Enum.csproj" Id="a1b44149-1dfd-4c40-8eb1-0c58dd6a4aac" />
+  <Project Path="POCCollecionAndPolymorphism/POCCollecionAndPolymorphism.csproj" Id="5ae2896e-dfb0-4a23-ba89-7e7b7bd11caa" />
   <Project Path="POC_boxing_constructor/POC_boxing_constructor.csproj" Id="f071a50f-25d2-4046-8e41-19c6cb612546" />
   <Project Path="ProductApp/ProductApp.csproj" Id="9bbcd009-2076-49a8-ac17-25aa033f57fe" />
   <Project Path="StudentGrading/StudentGrading.csproj" Id="6bbcafda-1006-4c10-b745-5e0186837ac1" />
