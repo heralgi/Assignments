@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AccountSerialAndDeserialization/AccountSerialAndDeserialization.csproj" Id="2c8684af-6df8-42d8-a729-b41b9414fd0c" />
   <Project Path="Array Accounts/Array Accounts.csproj" Id="c739a458-b62c-40a8-a533-555fad461566" />
   <Project Path="Assignment 2/Assignment 2.csproj" />
   <Project Path="Assignment 3/Assignment 3.csproj" />
