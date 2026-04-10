@@ -14,6 +14,7 @@
   <Project Path="FuncDelegate/FuncDelegate.csproj" Id="3c127434-e568-4edf-9949-b8ab33bd6a11" />
   <Project Path="Functions and Arrays/Functions and Arrays.csproj" Id="3ad808d1-7846-4cc9-b0f4-1f5a26411cba" />
   <Project Path="InOutParams/InOutParams.csproj" Id="bf0e3be6-c802-4970-ae55-4cc9dbf8b24a" />
+  <Project Path="MovieStore/MovieStore.csproj" Id="705e215c-d923-453b-912e-4038a62d3337" />
   <Project Path="MulticastDelegates/MulticastDelegates.csproj" Id="f3bac52d-1799-419c-96c0-cb7e3b8e2b4e" />
   <Project Path="MultiLevel Inheritance/MultiLevel Inheritance.csproj" Id="7406317d-2b8a-4ac7-b120-25101fdde969" />
   <Project Path="Number_guess_game/Number_guess_game.csproj" Id="76e46556-23b2-4fff-82e6-60dcc7e0888e" />
