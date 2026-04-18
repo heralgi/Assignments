@@ -26,5 +26,6 @@
   <Project Path="PredicateDemo/PredicateDemo.csproj" Id="8e0e83b1-ec2f-4452-bc0c-adca4bad031f" />
   <Project Path="ProductApp/ProductApp.csproj" Id="9bbcd009-2076-49a8-ac17-25aa033f57fe" />
   <Project Path="StudentGrading/StudentGrading.csproj" Id="6bbcafda-1006-4c10-b745-5e0186837ac1" />
+  <Project Path="TicTacToe/TicTacToe.csproj" Id="862b1769-2594-463f-bfbb-65c78c71cf33" />
   <Project Path="UniversityEnrollmentCourse/UniversityEnrollmentCourse.csproj" Id="464f97c9-4d94-4e82-979b-2988db3e1df5" />
 </Solution>
